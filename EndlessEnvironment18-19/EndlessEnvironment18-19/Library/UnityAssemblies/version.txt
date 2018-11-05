@@ -1,0 +1,106 @@
+2018.2.12f1:3.3.0.2
+StandaloneWindows
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.AccessibilityModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.AnimationModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.AssetBundleModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.AudioModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.BaselibModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ClothModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.CloudWebServicesModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterInputModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.CoreModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.CrashReportingModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.DirectorModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.FacebookModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.FileSystemHttpModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.GameCenterModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.GridModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.HotReloadModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.IMGUIModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ImageConversionModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.InputModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.LocalizationModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.PhysicsModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.Physics2DModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ProfilerModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.StreamingModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.SubstanceModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.TLSModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.TextRenderingModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.TilemapModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.TimelineModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UIModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UIElementsModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UNETModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UmbraModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UnityConnectModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.VRModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.VehiclesModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.VideoModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.WindModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEditor.dll
+D:\Steam Junk\Editor\Data\Managed/Unity.Locator.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+D:/Steam Junk/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+D:/Steam Junk/Editor/Data/Managed/UnityEditor.Graphs.dll
+D:/Steam Junk/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Users/brett/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.2d.common@1.0.10-preview/Tests/Editor/Lib/NSubstitute/NSubstitute.dll
+C:/Users/brett/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll
+C:/Users/brett/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll
+C:/Users/brett/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll
+C:/Users/brett/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll
+C:/Users/brett/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\mscorlib.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Core.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll
+D:\Steam Junk\Editor\Data\Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Core.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Runtime.Serialization.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.Linq.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.Lang.dll
+D:\Steam Junk\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\Boo.Lang.dll

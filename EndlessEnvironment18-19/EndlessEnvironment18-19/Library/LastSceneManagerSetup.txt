@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/MyParallax.unity
+- path: Assets/ja.unity
   isLoaded: 1
   isActive: 1
